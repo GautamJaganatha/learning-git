@@ -1,2 +1,2 @@
-Learning Git and Github
-This file added to learn Git from amigoscode youtube channel.
+#Learning Git and Github.
+#This repo is used  to learn Git from amigoscode youtube channel.
